@@ -1,0 +1,15 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "regionaloredensity",
+  "name": "Regional Ore Density",
+  "authors": [
+    "EnderMelody"
+  ],
+  "description": "Adds configurable ore density depending on various conditions applied through the config.",
+  "version": "1.0.0",
+  "side": "Server",
+  "dependencies": {
+    "game": "*"
+  }
+}
